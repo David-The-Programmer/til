@@ -4,4 +4,4 @@ Welcome! This repository contains things I have learnt day to day that I find us
 
 ## Topics
 
-- [Maths](./maths/README.md)
+- [Maths](maths/README.md)

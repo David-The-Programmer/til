@@ -1,2 +1,2 @@
-- [Home](./README.md)
-- [Maths](./maths/README.md)
+- [Home](/README.md)
+- [Maths](/maths/README.md)

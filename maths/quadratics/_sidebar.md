@@ -1,0 +1,6 @@
+- [Back to Maths](/maths/README.md)
+- [Real life applications](/maths/quadratics/real-life-applications.md)
+- [Completing the square](/maths/quadratics/complete-the-square.md)
+- [Vertex form](/maths/quadratics/vertex-form.md)
+- [Deriving the general formula](/maths/quadratics/deriving-general-formula.md)
+- [Discriminant](/maths/quadratics/discriminant.md)
