@@ -1,1 +1,1 @@
-## Completing the square
+# Completing the square

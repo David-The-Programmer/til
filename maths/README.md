@@ -1,3 +1,5 @@
-## Maths
+# Maths
 
-Below are maths topics that I have learnt so far.
+## Maths Topics
+
+- [Quadratics](/maths/quadratics/README.md)

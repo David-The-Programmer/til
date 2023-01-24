@@ -1,1 +1,1 @@
-## Deriving the general formula
+# Deriving the general formula

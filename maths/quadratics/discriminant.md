@@ -1,1 +1,1 @@
-## Discriminant
+# Discriminant

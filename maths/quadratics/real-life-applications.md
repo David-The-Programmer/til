@@ -1,1 +1,1 @@
-## Real life applications of quadratics
+# Real life applications of quadratics
